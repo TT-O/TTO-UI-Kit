@@ -23,4 +23,6 @@ Mục lục
     :maxdepth: 2
 
     guidelines/overview
+    guidelines/accessibility
+
 
