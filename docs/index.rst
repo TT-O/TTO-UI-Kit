@@ -9,7 +9,7 @@ Thay vì tốn thời gian cho việc căn chỉnh giao diện, bằng việc á
 .. _dev-docs:
 
 Mục lục
--------
+~~~~~~~
 
 .. toctree::
     :maxdepth: 2
