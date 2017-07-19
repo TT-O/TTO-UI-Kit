@@ -9,8 +9,8 @@ Thay vì tốn thời gian cho việc căn chỉnh giao diện, bằng việc á
 
 Tài liệu này cung cấp nhiều tài nguyên cho lập trình viên và người thiết kế, bao gồm:
 
-* các đoạn code html cho từng thành phần của website
-* các đoạn css tương thích với nhiều trình duyệt và nền tảng
+* các đoạn code ``html`` cho từng thành phần của website
+* các đoạn code ``css`` tương thích với nhiều trình duyệt và nền tảng
 * icon, fonts và các hướng dẫn thiết kế
 
 
