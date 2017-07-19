@@ -25,5 +25,7 @@ Mục lục
     guidelines/overview
     guidelines/accessibility
     guidelines/color
+    guidelines/layout
+    guidelines/markup-and-style
 
 
