@@ -14,12 +14,3 @@ Mục lục
 .. toctree::
     :maxdepth: 2
     overview
-    configuration
-    definition_workers
-    running_jobs
-    client
-    kernel_events
-    customize
-    cache
-    contributing
-    faqs
