@@ -18,7 +18,7 @@ Một block đại diện cho tên một thành phần chính. Nếu bạn đang
 Element
 ~~~~~~~
 
-Một element đại diện cho một thành phần con, được ngăn cách với thành phần chính bằng 2 dấu gạch dưới. Cánh cửa trong ngôi nhà sẽ được đặt tên class là ``.house__door``. Cửa sổ sẽ là ``.house__window`.
+Một element đại diện cho một thành phần con, được ngăn cách với thành phần chính bằng 2 dấu gạch dưới. Cánh cửa trong ngôi nhà sẽ được đặt tên class là ``.house__door``. Cửa sổ sẽ là ``.house__window``.
 
 Cẩn thận với các thành phần nhỏ hơn trong một thành phần lớn. Đặc biệt trong trường hợp có thể bị lặp lại bởi các thành phần không đồng cấp hoặc không liên quan. Tránh việc đặt tên như ``.house__stair__step``. Thay vào đó, hãy sử dụng ``.house__stair-step`` (dấu gạch nối dơn không biểu thị bất kỳ thành phần nào trong BEM, và có thể sử dụng để đặt tên nhóm các thành phần). Hoặc nếu các thành phần của cầu thang (stair) có thể được sử dụng trong một thành phần khác, lúc đó sử dụng ``.stair`` như một thành phần lớn, và tạo các thành phần nhỏ hơn ``.stair__step``.
 
