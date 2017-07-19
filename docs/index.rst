@@ -24,5 +24,6 @@ Mục lục
 
     guidelines/overview
     guidelines/accessibility
+    guidelines/color
 
 
