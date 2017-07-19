@@ -1,5 +1,5 @@
-Tài liệu TTO Design System
-==========================
+TTO Design System
+=================
 
 TTO Design System được xây dựng để đáp ứng nhu cầu phát triển của Tuổi Trẻ Online, đồng thời hướng tới sự nhất quán, kế thừa, mở rộng và tái sử dụng.
 
@@ -13,4 +13,5 @@ Mục lục
 
 .. toctree::
     :maxdepth: 2
+
     overview
