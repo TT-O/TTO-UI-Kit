@@ -22,5 +22,5 @@ Mục lục
 .. toctree::
     :maxdepth: 2
 
-    overview
+    guidelines/overview
 
