@@ -4,7 +4,7 @@ Overview
 Goal
 ~~~~
 
-.. code-block: css
+.. code-block:: css
 
     html {
         font-family: Helvetica, Helvetica-Nueue, Arial, san-serif;
