@@ -23,13 +23,13 @@ Mục lục
     :maxdepth: 2
 
     guidelines
-        guidelines/overview
-        guidelines/accessibility
-        guidelines/color
-        guidelines/layout
-        guidelines/markup-and-style
+    guidelines/overview
+    guidelines/accessibility
+    guidelines/color
+    guidelines/layout
+    guidelines/markup-and-style
     components
-        components/overview
-        components/grid
+    components/overview
+    components/grid
 
 
