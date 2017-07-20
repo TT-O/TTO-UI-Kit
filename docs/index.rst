@@ -22,13 +22,11 @@ Mục lục
 .. toctree::
     :maxdepth: 2
 
-    guidelines
     guidelines/overview
     guidelines/accessibility
     guidelines/color
     guidelines/layout
     guidelines/markup-and-style
-    components
     components/overview
     components/grid
 
