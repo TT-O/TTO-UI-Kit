@@ -27,6 +27,5 @@ Mục lục
     guidelines/color
     guidelines/layout
     guidelines/markup-and-style
-    components/grid
 
 
